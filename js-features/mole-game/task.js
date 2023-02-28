@@ -13,7 +13,7 @@ function killer(hole) {
     if (x >= 10) {
       alert("Вы выйграли!");
     }
-    if (y >= 2) {
+    if (y >= 5) {
       alert("Вы проиграли!");
     }
   };
